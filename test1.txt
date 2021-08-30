@@ -1,1 +1,2 @@
-test1 - new file
+test1 - new file- same line change
+changed test1
